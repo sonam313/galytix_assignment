@@ -1,0 +1,33 @@
+.wetherBg{
+  background: url("https://wallpapercave.com/wp/wp3980172.jpg");
+  height: auto;
+  display: flex;
+
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+}
+.heading{
+  color:white;
+  font-weight: 700;
+}
+.wetherResultBox{
+  margin: auto;
+  text-align: center;
+  width: 450px;
+  height: 150px;
+}
+.weathorIcon{
+  margin-top: 2rem;
+  width: 100px;
+  height: 100px;
+}
+.weathorCity{
+  text-align: center;
+  font-size: 25px;
+}
+.weathorTemp{
+  font-size:45px;
+  text-align: center;
+  font-weight: 700;
+}
